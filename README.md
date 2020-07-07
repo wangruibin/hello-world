@@ -10,3 +10,6 @@ elasticsearch安装包
 wget https://github.com/elastic/elasticsearch/archive/v5.6.12.tar.gz
 
 https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.6.12.tar.gz
+
+
+https://www.apache.org/dyn/closer.lua/zookeeper/zookeeper-3.6.1
